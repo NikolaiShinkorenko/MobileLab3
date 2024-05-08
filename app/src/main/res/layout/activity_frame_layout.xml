@@ -24,7 +24,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center|bottom"
             android:background="#00B51C1C"
-            app:srcCompat="@drawable/arrow2" />
+            app:srcCompat="@drawable/arrow" />
 
 
     </FrameLayout>

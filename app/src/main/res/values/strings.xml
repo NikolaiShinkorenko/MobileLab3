@@ -2,6 +2,12 @@
     <string name="app_name">Lab3</string>
     <string name="input_text">Написать сообщение…</string>
     <string name="btn_text">Отправить</string>
+    <string name="back_btn">Вернуться</string>
+    <string name="liner_btn">Чат на LinerLayout</string>
+    <string name="constraint_btn">Чат на ConstraintLayout</string>
+    <string name="frame_btn">Image viewer на FrameLayout</string>
+
+
     <string name="anna_text1">Анна: Привет! Как дела?\n</string>
     <string name="anna_text2">Анна: Тоже неплохо) А что у тебя нового?\n</string>
     <string name="anna_text3">Анна: О, здорово! А у меня ничего особенного, просто сидела дома\n</string>
